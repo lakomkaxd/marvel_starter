@@ -40,7 +40,7 @@
             transition: opacity 500ms ease-in;
         }
         &-exit {
-            opacity: 1
+            opacity: 1;
         }
         &-exit-active {
             opacity: 0;
@@ -53,5 +53,5 @@
         line-height: 29px;
         text-transform: uppercase;
         color: #fff;
-    }
+    } 
 }
